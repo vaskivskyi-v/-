@@ -1,4 +1,4 @@
-﻿//ПРАКТИЧНА #2 Васьківський 13 Варіант
+﻿/nПРАКТИЧНА #2 Васьківський 13 Варіант
 #include <iostream>// веденя виведеня
 #include <iomanip>//setw setfill
 #include <windows.h>//налаштування консолі
@@ -65,3 +65,4 @@ int main()
 
     return 0;
 }
+
